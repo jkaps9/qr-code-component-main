@@ -26,25 +26,25 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/jkaps9/qr-code-component-main](https://github.com/jkaps9/qr-code-component-main)
-- Live Site URL: [https://jkaps9.github.io/](https://jkaps9.github.io/)
+- Live Site URL: [https://jkaps9.github.io/qr-code-component-main/](https://jkaps9.github.io/qr-code-component-main/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
 - Flexbox
 
 ### What I learned
 
-
+How to center a "card" with Flexbox on the screen
 
 ### Continued development
 
-
+Need to improve on making the sizing more dynamic. Currently have a media query which I think generally works, but could be more dynamic.  
 
 ### Useful resources
 
+Brad Traversy's YouTube series
 
 ## Author
 
@@ -52,3 +52,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgments
 
+Brad Traversy's YouTube series
